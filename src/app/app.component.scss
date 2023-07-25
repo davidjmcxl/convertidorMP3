@@ -8,11 +8,13 @@ body{
 }
 .imgSongs{
   width: 100%;
+
   object-fit:fill;
   height: 300px;
 }
 .no-info{
   opacity: .4;
+  min-height: 65vh;
 }
 .content-title{
   display: flex;
